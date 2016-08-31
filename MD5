@@ -1,4 +1,4 @@
-34b51fdad23cb6f6b531da58367641ca *DESCRIPTION
+72fecc0f3f27b6e29f1a70322f306a81 *DESCRIPTION
 e1b821147673451d9f71dfd48a926cbb *NAMESPACE
 0bafe74c4911be637190d8a5f9de4903 *R/011.Proportion_package_document.R
 8ca2d959b938f52208085cd41301d035 *R/101.Confidence_base_n.R
@@ -60,6 +60,10 @@ db578243367b85e63ec36870493ad897 *R/631.BayesFactors.R
 8b41f5e29b643b2a3b9f32522a26e287 *R/641.PosteriorProbs.R
 7f04796739c21a2cc23959a80c5e1d26 *R/642.PosteriorProbs_x.R
 4d4c55da610e407dd42b3c5f06220bb1 *README.md
+10cbe49a52211976f05ac67c713192ca *build/vignette.rds
+5eaae1f6df44b0b18c8e852374e68458 *inst/doc/proportion.R
+0632b0524ffc86e881e05d3c6763da5a *inst/doc/proportion.Rmd
+46b26cd90f29dc31b0442321996c7379 *inst/doc/proportion.pdf
 7aead5d3c60f614a4a607c1877be0be7 *man/A-package-for-binomial-proportion.Rd
 94e17f8eaf5646120236d6500e400d8c *man/PlotciAAS.Rd
 448516ac4bbd21959bc778a2f3f42d3f *man/PlotciAAll.Rd
@@ -366,7 +370,7 @@ f7bd430ed840e0d9298f3dedf7d3a3e0 *man/pCOpBIWD.Rd
 b71b4acc439a914d70961d8a173e18b4 *man/probPOSx.Rd
 d500dca2df7d94ceb4c5f985dbeef4b4 *man/probPRE.Rd
 fc10ec5964b074114d3d457af1d413c9 *man/probPREx.Rd
-a4dc200b2ed9bdb90c97175160e6ac3e *vignettes/proportion.Rmd
+0632b0524ffc86e881e05d3c6763da5a *vignettes/proportion.Rmd
 bf416c82e4d277ee557756c15c4961c0 *vignettes/proportion.asis
-f933e0e6e374818cfea68d583998deff *vignettes/proportion.pdf
+ef34e1bdc1ac79b5e370b5757ddd1abb *vignettes/proportion.html
 8073dd3816e3f1425f9c060f6080021f *vignettes/workflow.png
