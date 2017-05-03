@@ -33,4 +33,3 @@ Other p-confidence and p-bias of adjusted methods: \code{\link{PlotpCOpBIAAS}},
   \code{\link{pCOpBIASC}}, \code{\link{pCOpBIATW}},
   \code{\link{pCOpBIAWD}}
 }
-

@@ -52,4 +52,3 @@ REVSTAT - Statistical Journal, 6, 165-197.
 \seealso{
 Other General methods for p-Confidence and p-Bias: \code{\link{PlotpCOpBIGEN}}
 }
-

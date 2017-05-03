@@ -48,4 +48,3 @@ Other Error for adjusted methods: \code{\link{PloterrAAS}},
   \code{\link{errALT}}, \code{\link{errASC}},
   \code{\link{errATW}}, \code{\link{errAWD}}
 }
-

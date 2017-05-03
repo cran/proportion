@@ -42,4 +42,3 @@ Other Expected length  of adjusted methods: \code{\link{PlotexplAAS}},
   \code{\link{lengthALT}}, \code{\link{lengthASC}},
   \code{\link{lengthATW}}, \code{\link{lengthAWD}}
 }
-

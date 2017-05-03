@@ -80,4 +80,3 @@ Other Basic coverage probability methods: \code{\link{PlotcovpAS}},
   \code{\link{covpLR}}, \code{\link{covpLT}},
   \code{\link{covpSC}}, \code{\link{covpWD}}
 }
-

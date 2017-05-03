@@ -61,4 +61,3 @@ Other Continuity correction methods of CI estimation given x and n: \code{\link{
   \code{\link{ciCLTx}}, \code{\link{ciCSCx}},
   \code{\link{ciCTWx}}
 }
-

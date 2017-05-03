@@ -33,4 +33,3 @@ Other Basic methods of CI estimation: \code{\link{PlotciAllg}},
   \code{\link{ciSC}}, \code{\link{ciTW}},
   \code{\link{ciWD}}
 }
-

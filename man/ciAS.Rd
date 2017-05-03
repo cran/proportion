@@ -78,4 +78,3 @@ Other Basic methods of CI estimation: \code{\link{PlotciAS}},
   \code{\link{ciSC}}, \code{\link{ciTW}},
   \code{\link{ciWD}}
 }
-

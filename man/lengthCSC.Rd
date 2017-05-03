@@ -61,4 +61,3 @@ Other Expected length  of continuity corrected methods: \code{\link{PlotexplCAS}
   \code{\link{lengthCLT}}, \code{\link{lengthCTW}},
   \code{\link{lengthCWD}}
 }
-

@@ -60,4 +60,3 @@ Other Adjusted methods of CI estimation  given x & n: \code{\link{PlotciAAllx}},
   \code{\link{ciALRx}}, \code{\link{ciALTx}},
   \code{\link{ciASCx}}, \code{\link{ciATWx}}
 }
-

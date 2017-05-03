@@ -53,4 +53,3 @@ covpGEN(n,LL,UL,alp,hp,t1,t2)
 \seealso{
 Other General methods for coverage probability: \code{\link{PlotcovpGEN}}
 }
-

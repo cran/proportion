@@ -62,4 +62,3 @@ Other Hypothesis testing: \code{\link{hypotestBAF1x}},
   \code{\link{hypotestBAF5x}}, \code{\link{hypotestBAF5}},
   \code{\link{hypotestBAF6x}}, \code{\link{hypotestBAF6}}
 }
-

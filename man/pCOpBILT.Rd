@@ -43,4 +43,3 @@ Other p-confidence and p-bias of base methods: \code{\link{PlotpCOpBIAS}},
   \code{\link{pCOpBILR}}, \code{\link{pCOpBISC}},
   \code{\link{pCOpBITW}}, \code{\link{pCOpBIWD}}
 }
-

@@ -33,4 +33,3 @@ Other Continuity correction methods of CI estimation: \code{\link{PlotciCAllg}},
   \code{\link{ciCSC}}, \code{\link{ciCTW}},
   \code{\link{ciCWD}}
 }
-

@@ -44,4 +44,3 @@ Other Expected length  of base methods: \code{\link{PlotexplAll}},
   \code{\link{lengthSC}}, \code{\link{lengthTW}},
   \code{\link{lengthWD}}
 }
-

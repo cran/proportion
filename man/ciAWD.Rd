@@ -62,4 +62,3 @@ Other Adjusted methods of CI estimation: \code{\link{PlotciAAS}},
   \code{\link{ciALT}}, \code{\link{ciASC}},
   \code{\link{ciATW}}
 }
-

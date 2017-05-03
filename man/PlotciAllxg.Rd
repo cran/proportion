@@ -31,4 +31,3 @@ Other Base methods of CI estimation given x & n: \code{\link{PlotciAllx}},
   \code{\link{ciLTx}}, \code{\link{ciSCx}},
   \code{\link{ciTWx}}, \code{\link{ciWDx}}
 }
-

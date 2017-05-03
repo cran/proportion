@@ -80,6 +80,7 @@ To help the researcher reporduce results in existing papers we have taken six ke
 suggested further
 items to try. Details are in the vignette.
 }
+
 \references{
 [1] 1993 Vollset SE.
 Confidence intervals for a binomial proportion.
@@ -129,4 +130,3 @@ Journal of Statistical Computation and Simulation, 84, 5, 1-17
 A comparison of Bayes-Laplace, Jeffreys, and Other Priors: The case of zero events.
 The American Statistician: 62; 40 - 44.
 }
-

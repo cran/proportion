@@ -42,4 +42,3 @@ Other Basic coverage probability methods: \code{\link{PlotcovpAll}},
   \code{\link{covpLT}}, \code{\link{covpSC}},
   \code{\link{covpTW}}, \code{\link{covpWD}}
 }
-

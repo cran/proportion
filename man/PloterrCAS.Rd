@@ -37,4 +37,3 @@ Other Error for continuity corrected methods: \code{\link{PloterrCAll}},
   \code{\link{errCLT}}, \code{\link{errCSC}},
   \code{\link{errCTW}}, \code{\link{errCWD}}
 }
-

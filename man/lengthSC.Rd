@@ -79,4 +79,3 @@ Other Expected length  of base methods: \code{\link{PlotexplAS}},
   \code{\link{lengthLT}}, \code{\link{lengthTW}},
   \code{\link{lengthWD}}
 }
-

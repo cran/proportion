@@ -37,4 +37,3 @@ Other Error for base methods: \code{\link{PloterrAll}},
   \code{\link{errLT}}, \code{\link{errSC}},
   \code{\link{errTW}}, \code{\link{errWD}}
 }
-

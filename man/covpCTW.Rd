@@ -64,4 +64,3 @@ Other Coverage probability for continuity corrected methods: \code{\link{Plotcov
   \code{\link{covpCAll}}, \code{\link{covpCLT}},
   \code{\link{covpCSC}}, \code{\link{covpCWD}}
 }
-

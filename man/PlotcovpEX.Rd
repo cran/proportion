@@ -50,4 +50,3 @@ Other Basic coverage probability methods: \code{\link{PlotcovpAS}},
   \code{\link{covpLT}}, \code{\link{covpSC}},
   \code{\link{covpTW}}, \code{\link{covpWD}}
 }
-

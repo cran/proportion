@@ -64,4 +64,3 @@ Other Coverage probability of adjusted methods: \code{\link{PlotcovpAAS}},
   \code{\link{covpALR}}, \code{\link{covpALT}},
   \code{\link{covpASC}}, \code{\link{covpATW}}
 }
-

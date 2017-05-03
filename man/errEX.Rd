@@ -56,4 +56,3 @@ Other Error for base methods: \code{\link{PloterrAS}},
   \code{\link{errLT}}, \code{\link{errSC}},
   \code{\link{errTW}}, \code{\link{errWD}}
 }
-

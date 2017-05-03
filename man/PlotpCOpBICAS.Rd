@@ -31,4 +31,3 @@ Other p-confidence and p-bias of continuity corrected methods: \code{\link{Plotp
   \code{\link{pCOpBICLT}}, \code{\link{pCOpBICSC}},
   \code{\link{pCOpBICTW}}, \code{\link{pCOpBICWD}}
 }
-

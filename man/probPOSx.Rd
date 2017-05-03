@@ -45,4 +45,3 @@ Other Miscellaneous  functions for Bayesian method: \code{\link{empericalBAx}},
   \code{\link{empericalBA}}, \code{\link{probPOS}},
   \code{\link{probPREx}}, \code{\link{probPRE}}
 }
-

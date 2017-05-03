@@ -38,4 +38,3 @@ Other Error for continuity corrected methods: \code{\link{PloterrCAS}},
   \code{\link{errCLT}}, \code{\link{errCSC}},
   \code{\link{errCTW}}, \code{\link{errCWD}}
 }
-

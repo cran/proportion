@@ -36,4 +36,3 @@ Other Expected length: \code{\link{PlotexplGEN}},
   \code{\link{PlotexplSIM}}, \code{\link{PlotlengthGEN}},
   \code{\link{lengthGEN}}, \code{\link{lengthSIM}}
 }
-

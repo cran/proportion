@@ -54,4 +54,3 @@ covpSIM(n,LL,UL,alp,s,a,b,t1,t2)
 \seealso{
 Other Simulated methods for coverage probability: \code{\link{PlotcovpSIM}}
 }
-
